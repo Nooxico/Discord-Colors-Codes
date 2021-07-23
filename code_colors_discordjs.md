@@ -53,4 +53,4 @@ Unnamed role color 2 | 5533306 | `#546E7A`
 ![Unnamed colors](https://user-images.githubusercontent.com/8020752/110257517-97024200-7f9e-11eb-9ff0-9a03fa573de9.png)
 
                   
-Updated by [@Olympic1](https://github.com/Olympic1)
+Updated by [@Nooxico](https://github.com/Nooxico)
